@@ -1,4 +1,4 @@
-const key = '1C36OxcMLjVdHQMM6k0BkAkIwSCjjl83';
+const key = 'ivOsMGN3LWALaEBMuMnDkfA00QG6H3K6';
 const proxy = 'https://cors-anywhere.herokuapp.com/';
 // get weather information
 const getWeather = async (id) => {
